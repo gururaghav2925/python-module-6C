@@ -1,5 +1,4 @@
-# Heading
-Python Program to Define an Abstract Base Class for Polygon and Implement Its Subclasses
+# Python Program to Define an Abstract Base Class for Polygon and Implement Its Subclasses
 
 # Aim
 To create an abstract base class `Polygon` with an abstract method `sides()` and implement it in various subclasses that represent different shapes (e.g., Triangle, Square). Each subclass will define its own version of the `sides()` method.
